@@ -1,5 +1,5 @@
-¿Qué es esto? (Ej: "Este repositorio contiene mis notas, ejercicios y proyectos del curso CS50x de Harvard").
+¿Qué es esto? 
 
-¿Qué herramientas o conceptos cubre? (Ej: Python, C, SQL, estructuras de datos, etc.).
+¿Qué herramientas o conceptos cubre? 
 
-¿Cómo está organizado? (Una pequeña lista explicando qué hay en cada carpeta).
+¿Cómo está organizado? 
